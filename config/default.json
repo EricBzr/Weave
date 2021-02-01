@@ -1,4 +1,3 @@
 {
-    "mongoURI": "mongodb+srv://mernAdmin:mernAdmin123@cluster0.9wjh8.mongodb.net/<dbname>?retryWrites=true&w=majority",
-    "jwtSecret": "thesauce"
+    "message": "Nothing Juicy Here..."
 }
